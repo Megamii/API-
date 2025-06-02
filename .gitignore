@@ -1,0 +1,3 @@
+*node_modules/*
+#I used *.../* because node modules is a folder, for env, there is no need
+.env
